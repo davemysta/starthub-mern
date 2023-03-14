@@ -1,0 +1,42 @@
+[33mcommit 4dbe2a9410655a4f05d760574dd617929ec499ac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: davemysta <46573430+davemysta@users.noreply.github.com>
+Date:   Mon Mar 13 06:02:30 2023 -0400
+
+    Update to user.js and db.js
+    
+    user.js
+            - add gravatar, bcrypt and user model imports
+            - verify if user exists
+            - add gravatar img to account
+            - hash password with bcrypt
+            - save new user to db
+
+[33mcommit 96ced30c44ab401c6434e92c6297bedc72963454[m
+Author: davemysta <46573430+davemysta@users.noreply.github.com>
+Date:   Mon Mar 13 05:34:23 2023 -0400
+
+    Add validation for  user route
+
+[33mcommit f9e4cecd0f4c59adc6ed0fc91eac7ba28dccd1bd[m
+Author: davemysta <46573430+davemysta@users.noreply.github.com>
+Date:   Sat Mar 11 06:56:18 2023 -0500
+
+    Add models folder and User.js file
+
+[33mcommit 3bee276fd049aaaaa82f2ef3c6300b87032af6a7[m
+Author: davemysta <46573430+davemysta@users.noreply.github.com>
+Date:   Sat Mar 11 06:50:08 2023 -0500
+
+    Add routes and routes/api folders, add auth, post, profile, user js files, update server.js to use new routes.
+
+[33mcommit 7ac4261cd06c3d38df89ce36f9a0a36680be00d1[m
+Author: davemysta <46573430+davemysta@users.noreply.github.com>
+Date:   Fri Mar 10 06:45:52 2023 -0500
+
+    Add db connection, config folder, db js file, default json file for config
+
+[33mcommit a193706d7d8c1f4cf28108fc9cba658da8a32ca7[m
+Author: davemysta <46573430+davemysta@users.noreply.github.com>
+Date:   Thu Mar 9 06:55:04 2023 -0500
+
+    Initial commit
